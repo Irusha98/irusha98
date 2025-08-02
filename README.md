@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **Bachelor Of Information Technology in WINTEC, New Zealand**
 
+- 🎯 My near future goal is become a cybersecurity professional
+  
 - 📫 How to reach me **irushasam6@gmail.com**
 
 - ⚡ Fun fact **Can call me Irusha sam**
