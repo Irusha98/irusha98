@@ -32,7 +32,7 @@
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">  <img src="https://skillicons.dev/icons?i=aws,azure,py,postman,docker,html,figma,mysql,ps"/>
+<p align="center"> <img src="https://github.com/Irusha98/Icons/blob/main/Untitled%20design%20(12).png" alt="bootstrap" width="48" height="48"/>   <img src="https://skillicons.dev/icons?i=aws,azure,py,postman,docker,html,figma,mysql,ps"/>
   
 ---
 - <h3 align="center">My Statistics:</h3>
